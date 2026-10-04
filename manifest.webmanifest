@@ -1,0 +1,43 @@
+{
+  "name": "FPSmith: FPS ve Oyun Ayarları",
+  "short_name": "FPSmith",
+  "description": "Ekran kartına ve işlemcine göre her oyunda hedef FPS'i tutturan en iyi grafik ayarları.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10121F",
+  "theme_color": "#10121F",
+  "lang": "tr",
+  "categories": [
+    "utilities",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

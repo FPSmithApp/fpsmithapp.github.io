@@ -1,0 +1,39 @@
+{
+  "checked": "2026-10-03",
+  "nvidia": {
+    "name": "GeForce Game Ready",
+    "ver": "617.14 WHQL",
+    "date": "2026-09-22",
+    "games": [
+      "Control Resonant",
+      "Gears of War: E-Day"
+    ]
+  },
+  "nvidiaLegacy": {
+    "name": "GeForce",
+    "ver": "582.78 WHQL",
+    "legacy": true
+  },
+  "amd": {
+    "name": "AMD Software: Adrenalin Edition",
+    "ver": "26.9.2",
+    "date": "2026-09-29",
+    "whql": "26.8.1",
+    "games": [
+      "Control Resonant",
+      "Gears of War: E-Day",
+      "Minecraft Dungeons 2"
+    ]
+  },
+  "amdLegacy": {
+    "name": "AMD Software: Adrenalin Edition",
+    "ver": "26.5.2",
+    "legacy": true
+  },
+  "intel": {
+    "name": "Intel Arc Graphics",
+    "ver": "32.0.101.9033",
+    "date": null,
+    "games": []
+  }
+}
