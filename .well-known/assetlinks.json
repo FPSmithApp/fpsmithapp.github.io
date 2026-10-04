@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.fpsmith.app",
+        "sha256_cert_fingerprints": ["2F:BC:55:EA:12:C6:A0:93:D9:E9:DD:E8:86:3F:12:ED:15:CD:33:F2:C7:9E:BF:AB:23:C1:59:15:6D:F1:8A:EA"]
+      }
+    }]
